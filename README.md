@@ -2,6 +2,6 @@
 
 My solutions on SICP exercises
 
-## Instal
+### Install
 
-### [racket-lang](https://download.racket-lang.org/)
+**[racket-lang](https://download.racket-lang.org/)**

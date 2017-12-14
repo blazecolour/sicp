@@ -1,5 +1,7 @@
 # Structure and Interpretation of Computer Programs
 
+![cover](https://github.com/blazecolour/sicp/blob/master/img/cover.jpg?raw=true)
+
 My solutions on SICP exercises
 
 ### Install

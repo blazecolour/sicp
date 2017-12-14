@@ -7,3 +7,10 @@ My solutions on SICP exercises
 ### Install
 
 **[racket-lang](https://download.racket-lang.org/)**
+
+### Book
+
+**[sicp](https://mitpress.mit.edu/sicp/)**
+
+### Contents
+

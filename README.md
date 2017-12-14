@@ -14,3 +14,5 @@ My solutions on SICP exercises
 
 ### Contents
 
+* **[en](https://github.com/blazecolour/sicp/blob/master/doc/en/index.md)**
+* **[ru](https://github.com/blazecolour/sicp/blob/master/doc/ru/index.md)**

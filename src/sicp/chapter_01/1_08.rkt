@@ -2,8 +2,6 @@
 
 (define (square x) (* x x))
 
-(define (cube x) (* (square x) x))
-
 (define (good-enough? guess prev-guess)
   (< (abs (/ (- guess prev-guess) prev-guess)) 0.001))
 

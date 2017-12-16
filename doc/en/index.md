@@ -8,6 +8,8 @@
   * [Exercise 1.5](./chapter_01/1_05.md)
   * [Exercise 1.6](./chapter_01/1_06.md)
   * [Exercise 1.7](./chapter_01/1_07.md)
-  * Exercise 1.8
+  * [Exercise 1.8](./chapter_01/1_08.md)
 
 ### 1.2 Procedures and the Processes They Generate
+  * [Exercise 1.9](./chapter_01/1_09.md)
+  * [Exercise 1.10](./chapter_01/1_10.md)

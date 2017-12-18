@@ -13,3 +13,5 @@
 ### 1.2 Procedures and the Processes They Generate
   * [Exercise 1.9](./chapter_01/1_09.md)
   * [Exercise 1.10](./chapter_01/1_10.md)
+  * [Exercise 1.11](./chapter_01/1_11.md)
+  * [Exercise 1.12](./chapter_01/1_12.md)

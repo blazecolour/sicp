@@ -7,7 +7,7 @@
      (f (- n 2))
      (f (- n 3)))))
 
-(define (f-it n)
+(define (f-iterative n)
   (define (f-iter a b c counter)
     (if (< n 3)
         n        

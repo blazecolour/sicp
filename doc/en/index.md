@@ -15,3 +15,5 @@
   * [Exercise 1.10](./chapter_01/1_10.md)
   * [Exercise 1.11](./chapter_01/1_11.md)
   * [Exercise 1.12](./chapter_01/1_12.md)
+  * [Exercise 1.13](./chapter_01/1_13.md)
+  * [Exercise 1.14](./chapter_01/1_14.md)

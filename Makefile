@@ -1,4 +1,4 @@
 test:
-	raco test sicp
+	raco test src/sicp
 
 .PHONY: test

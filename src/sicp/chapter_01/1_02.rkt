@@ -16,4 +16,4 @@
         (- 2
            7))))
 
-(check-equal? solution -37/150)
+(check-equal? solution -37/150) (printf "test 1.02 passed")

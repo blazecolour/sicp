@@ -1,7 +1,5 @@
 #lang racket/base
 
-(require rackunit)
-
 (define solution
   (/ (+ 5
         4
@@ -16,4 +14,4 @@
         (- 2
            7))))
 
-(check-equal? solution -37/150) (printf "test 1.02 passed")
+(provide solution)

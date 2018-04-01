@@ -29,3 +29,5 @@
 
 (define (sqrt x)
   (better-sqrt-iter 1.0 0.5 x))
+
+(provide sqrt)

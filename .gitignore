@@ -1,1 +1,17 @@
-*.bak
+### Racket ###
+*.rkt~
+*.rkt.bak
+\#*.rkt#
+\#*.rkt#*#
+*.dep
+*.zo
+
+compiled
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history

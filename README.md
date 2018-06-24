@@ -16,7 +16,7 @@ My solutions on SICP exercises
 
 ### Sicp Racket Boilerplate
 
-**[Boilerplate by Hexlet](https://github.com/hexlet-boilerplates/sicp-racket)
+**[Boilerplate by Hexlet](https://github.com/hexlet-boilerplates/sicp-racket)**
 
 ### Contents
 

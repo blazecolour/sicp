@@ -1,0 +1,6 @@
+#lang racket/base
+
+(define (a-plus-abs-b)
+  ((if (> b 0) + -) a b))
+
+provide(a-plus-abs-b)

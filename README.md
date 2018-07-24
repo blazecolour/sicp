@@ -30,4 +30,4 @@ My solutions on SICP exercises
 
 ### License
 
-**[MIT](./blob/master/LICENSE.md)**
+**[MIT](./LICENSE.md)**

@@ -1,6 +1,6 @@
 # Structure and Interpretation of Computer Programs
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 ![cover](https://github.com/blazecolour/sicp/blob/master/img/cover.jpg?raw=true)
 
@@ -27,3 +27,7 @@ My solutions on SICP exercises
 
 * **[sicp in clojure](https://github.com/v-kolesnikov/sicp)**
 * **[sicp in haskell](https://github.com/chris-taylor/SICP-in-Haskell)**
+
+### License
+
+**[MIT](./blob/master/LICENSE.md)**

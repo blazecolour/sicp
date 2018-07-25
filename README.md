@@ -2,7 +2,7 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-![cover](https://github.com/blazecolour/sicp/blob/master/img/cover.jpg?raw=true)
+![cover](./img/cover.jpg?raw=true)
 
 My solutions on SICP exercises
 

@@ -20,8 +20,8 @@ My solutions on SICP exercises
 
 ### Contents
 
-* **[en](https://github.com/blazecolour/sicp/blob/master/doc/en/index.md)**
-* **[ru](https://github.com/blazecolour/sicp/blob/master/doc/ru/index.md)**
+* **[en](./doc/en/index.md)**
+* **[ru](./doc/ru/index.md)**
 
 ### Other links
 
